@@ -1,0 +1,8 @@
+name: trashplugin20
+main: me.trashplugin.TrashPlugin20
+version: 1.0.0
+api-version: 1.12
+commands:
+  trash:
+    description: Delete items forever.
+    usage: /trash
